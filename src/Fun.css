@@ -1,0 +1,26 @@
+.Fun {
+    text-align: center;
+  }
+
+.Demo {
+  margin-left: 450px;
+  margin-right: 450px;
+  margin-top: 40px;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: black;
+  padding: 50px 30px;
+  background-size: cover;
+}
+
+h2{
+  text-align:center ;
+  color: blue;
+  background-color: pink;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-right: 0px;
+}
+/* body{
+  background-image: url("");
+  background-color: aqua;
+} */
